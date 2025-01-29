@@ -1,0 +1,69 @@
+
+{
+    "company": {
+        "name": "EPAM Systems",
+        "url": "https://www.linkedin.com/company/epam-systems/life"
+    },
+    "job": {
+        "title": "Lead React Developer (Next.js, Ionic)",
+        "location": "Ukraine (Remote)",
+        "about": "We are looking for a talented Lead React Developer to join our development team at our forward-thinking company, focusing on enhancing our market-leading wealth management platform. You will join us at an exciting time as we continue to modernize our digital offerings, focusing on delivering exceptional user experiences for our clients and advisers.",
+        "responsibilities": [
+            "Implement state-of-the-art frontend solutions using React and Next.js",
+            "Lead code reviews and uphold high standards across the team",
+            "Translate design wireframes into high-quality code alongside UX designers",
+            "Document component functionality and features in Storybook",
+            "Utilize the Ionic framework to develop cross-platform capabilities",
+            "Adhere to best practices to write clean, maintainable code",
+            "Maintain robust test coverage for new and existing features",
+            "Engage in code reviews and contribute to technical discussions within the team",
+            "Actively participate in agile ceremonies, promoting continuous process improvements",
+            "Collaborate on API integrations and implementations with backend teams"
+        ],
+        "requirements": [
+            "5+ years of professional experience building web applications",
+            "1+ years of relevant leadership experience",
+            "Strong proficiency in React.js and Next.js",
+            "Solid TypeScript skills",
+            "Familiarity with hybrid/cross-platform development (Ionic)",
+            "Proficiency in modern HTML5 and CSS3",
+            "Understanding of Context API for state management",
+            "Competency in using Git for version control",
+            "Experience with frontend testing practices (Jest, React Testing Library)",
+            "Excellent communication skills and a knack for teamwork",
+            "Ability to work both independently and collaboratively"
+        ],
+        "nice_to_have": [
+            "Experience with Azure and DevOps practices",
+            "Background in .NET development",
+            "Proficiency in YAML-based CI/CD workflows",
+            "Understanding of financial services applications",
+            "Knowledge of web accessibility standards",
+            "Experience with monorepo codebases"
+        ],
+        "we_offer": [
+            "Work on a flexible schedule remotely or from any of our comfortable offices or coworking spaces in Ukraine",
+            "Receive the necessary equipment to perform your work tasks",
+            "Change projects and technology stacks within EPAM",
+            "Gain experience in various business domains",
+            "Consider relocation options in over 30 countries worldwide",
+            "Participate in volunteer, charity programs and communities",
+            "Individual career path planning with manager",
+            "Regular feedback from colleagues",
+            "Free English training with certified teachers",
+            "Free training and certification in AWS, GCP, or Azure Clouds",
+            "Access to internal E-learn training program",
+            "Access to corporate accounts on LinkedIn Learning",
+            "Study at EPAM Solution Architecture School",
+            "Develop as a leader",
+            "Participate in internal communities",
+            "Vacation and sick leave",
+            "Voluntary Medical Insurance programs",
+            "Medical insurance for family members at corporate rates",
+            "Company support during significant life events",
+            "Support for psychological comfort",
+            "E-kids program"
+        ]
+    }
+}
+```
