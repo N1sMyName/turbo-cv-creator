@@ -1,0 +1,9 @@
+- run chrome in debug mode
+- go to desired job url
+- set page width and height to max
+- get html from page
+- generate json with data from html
+- generate pdf cv from json and base template
+- delete json and created html
+- store pdf into separate folder, name pdf position_Nazar_Hulymchuk_mm_yyyy.pdf
+- create puppeteer config
